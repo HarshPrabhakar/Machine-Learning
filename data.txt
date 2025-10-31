@@ -1,0 +1,15 @@
+Car Brand - BMW , Audi , Toyota
+Fule Type - Petrol , Diesel , Cng
+
+Linear Regression , Knn , Decision Tree
+
+so what is lebel encoding and one hot encoding The machine
+will not understand the texts data it cannot interpret these datas
+texts datas it will convert these datas into some numeric values and those values represents 
+the actual text datas 
+
+
+
+BMW = [1,0,0]
+Audi = [0,1,0]
+Toyota = [0,0,1]
