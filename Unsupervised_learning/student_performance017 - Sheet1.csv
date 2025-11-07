@@ -1,0 +1,21 @@
+StudyHours,Attendence,PastScore,Internet,Sleephours,Passed
+2,60,40,yes ,5,no 
+5,80,60,no,6,yes
+8,90,75,yes ,8,yes
+3,70,50,yes ,5,no 
+7,85,70,no,7,yes
+1,50,30,no,4,no 
+6,78,68,yes ,6,yes
+4,65,55,no,5,no 
+9,95,80,yes ,9,yes
+2,55,35,no,4,no 
+5,76,65,yes ,6,yes
+6,88,72,yes ,7,yes
+1,40,25,no,3,no 
+3,60,45,no,4,no 
+8,92,78,yes ,8,yes
+7,84,69,yes ,7,yes
+4,66,58,no,5,no 
+9,97,85,yes ,9,yes
+10,99,90,yes ,10,yes
+2,53,32,no,3,no 
