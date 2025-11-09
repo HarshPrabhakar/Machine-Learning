@@ -1,9 +1,9 @@
 Day,outlook,humidity,windy,play
-1,sunny,hot,high,no
-2,sunny,hot,high,no
-3,overcast,hot,high,yes
-4,rainy,mild,high,yes
-5,rainy,cool,normal,yes
+2,sunny,hot,false,no
+3,overcast,hot,true,yes
+1,sunny,hot,false,no
+4,rainy,mild,false,yes
+5,rainy,cool,false,yes
 6,rainy,cool,normal,no
 7,overcast,cool,normal,yes
 8,sunny,mild,high,no
