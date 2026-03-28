@@ -1,15 +1,3 @@
-Day,outlook,humidity,windy,play
-2,sunny,hot,false,no
-3,overcast,hot,true,yes
-1,sunny,hot,false,no
-4,rainy,mild,false,yes
-5,rainy,cool,false,yes
-6,rainy,cool,normal,no
-7,overcast,cool,normal,yes
-8,sunny,mild,high,no
-9,sunny,cool,normal,yes
-10,rainy,mild,normal,yes
-11,sunny,mild,normal,yes
-12,overcast,mild,high,yes
-13,overcast,hot,normal,yes
-14,rainy,mild,high,no
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb347ba472182a6dcc5cc03fbc544b4348bdf8e4560e94340f8bd4b547b6d204
+size 377
